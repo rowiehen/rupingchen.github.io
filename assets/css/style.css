@@ -172,7 +172,7 @@ footer{
 }
 
 .grid-item{
-    margin-right:50px;
+    margin-right:70px;
 
 }
 
@@ -196,8 +196,8 @@ footer{
     border-radius: 10%;
     cursor: pointer;
     z-index: 3; for my computer screen*/ 
-    width: 150px;
-    height:160px;
+    width: 250px;
+    height:260px;
     border-radius: 10%;
     cursor: pointer;
     z-index: 3; 
