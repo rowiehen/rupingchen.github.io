@@ -41,6 +41,7 @@ h4 {
     font-family:"Quattrocento";
     /*font-size: 30px; for my computer screen*/
     font-size: 15px;
+    text-align: center;
 }
 
 h3 {
@@ -258,7 +259,7 @@ footer{
 
 #uxw-photo{
     margin-left:110%;
-    margin-top:-90%;
+    margin-top: -80%;
     z-index:0;
 }
 
