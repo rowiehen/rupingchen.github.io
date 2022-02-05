@@ -80,7 +80,7 @@ footer{
     font-family:"Quattrocento";
     font-size:15px;
     position: absolute;
-  bottom: 0;
+  top: 100%;
   right:2%;
   width: 100%;
   text-align: center;
