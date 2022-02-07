@@ -828,7 +828,7 @@ footer{
         display:inline;
         position:absolute;
         right:0;
-        top:156px;
+        top:90%;
     }
 
     #about-photo-1{
@@ -838,6 +838,7 @@ footer{
     #about-photo-11{
         display: inline;
         position:absolute;
+        top: 90%;
     }
 
     #uxw-button-spine {
@@ -859,7 +860,11 @@ footer{
 
     #page-container-uxw{
         position:relative;
-        min-height: 190%;
+        min-height: 120%;
+    }
+
+    #writing-footer{
+        top: 95%;
     }
 }
 
