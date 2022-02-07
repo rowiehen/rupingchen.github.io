@@ -69,7 +69,7 @@ p{
 
 #page-container-uxw{
     position:relative;
-    min-height:150%;
+    min-height:98%;
 }
 
 #content-wrap{
@@ -80,13 +80,19 @@ footer{
     font-family:"Quattrocento";
     font-size:15px;
     position: absolute;
-  top: 100%;
-  right:2%;
+  right:0%;
   width: 100%;
   text-align: center;
   height:2.5rem;
 }
 
+#writing-footer{
+    top: 86%;
+}
+
+#landing-footer{
+    top: 95%;
+}
 
 #name-bar-text {
     margin-left: 6.5%;
@@ -280,6 +286,7 @@ footer{
 #about-photo-1{
   position: fixed;
   margin-left:0;
+  top: 80%;
 }
 
 #about-photo-11{
@@ -287,10 +294,10 @@ footer{
 }
 
 #about-photo-3{
-    position: absolute;
+    position: fixed;
     display: inline-block;
-    left:82.5%;
-    top:55%;
+    left:85%;
+    top:65%;
 }
 
 #about-photo-33{
@@ -616,7 +623,7 @@ footer{
 
     #page-container-uxw{
         position:relative;
-        min-height:240%;
+        min-height:140%;
     }
 
     #landing-photo{
@@ -661,7 +668,8 @@ footer{
 
     #about-photo-11{
         display: inline;
-        position:absolute;
+        position:fixed;
+        top: 485px;
     }
 
     #about-photo-3{
@@ -670,9 +678,13 @@ footer{
 
     #about-photo-33{
         display: inline;
-        position:absolute;
+        position:fixed;
         right:0;
-        top:115px;
+        top:490px;
+    }
+
+    #writing-footer{
+        top: 815px;
     }
 }
 @media (min-width: 340px) and (max-width: 355px) {
