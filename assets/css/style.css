@@ -925,14 +925,15 @@ footer{
 
     #about-photo-11{
         display: inline;
-        position:absolute;
+        position:fixed;
+        top: 90%;
     }
 
     #about-photo-33{
         display: inline;
-        position:absolute;
+        position:fixed;
         right:0;
-        top:115px;
+        top:90%;
     }
 
     #landing-text{
@@ -972,7 +973,11 @@ footer{
 
     #page-container-uxw{
         position:relative;
-        min-height: 170%;
+        max-height:150%;
+    }
+    
+    #writing-footer{
+        top: 88%;
     }
 }
 
